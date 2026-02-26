@@ -1,18 +1,18 @@
 # Flabel
 
 
-# INSTALLTION
+# Installation
 
 
 
-# UNINSTALLTION 
+# Uninstallation 
 
 
-# TROUBLESHOOTING
+# Troubleshooting
 
 
 
-# KNOWN ISSUES
+# Known Issues
 
 
-# CONTRIBUTE
+# Contribute
